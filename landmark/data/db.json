@@ -1,0 +1,19 @@
+{
+    "jobs": [
+        {"title": "Ninja ux designer", "id":1, "details":"lorem"},
+        {"title": "Ninja ux developer", "id":1, "details":"lorem"},
+        {"title": "Ninja web developer", "id":1, "details":"lorem"}
+    ],
+  
+    "posts": {
+        "title": "",
+        "password": "",
+        "role":"",
+        "terms": false,
+        "names": [],
+        "tempSkill": "",
+        "skills":[],
+        "passwordError":""
+    }
+
+}
