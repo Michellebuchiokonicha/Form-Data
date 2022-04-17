@@ -31,7 +31,7 @@ import {RouterLink, RouterView } from "vue-router";
   margin-top: 60px;
 }
 
-.enclose{
+.enclose {
   display: flex;
   justify-content: center;
   gap: 10px;
